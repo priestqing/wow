@@ -1,1 +1,0 @@
-import{d as o,r as t,c as n,t as a,o as r}from"./index-CyDV3kQF.js";const _=o({__name:"Home",setup(s){const e=t("这是一个静态网页示例. 后续尝试更多");return(c,l)=>(r(),n("div",null,a(e.value),1))}});export{_ as default};
